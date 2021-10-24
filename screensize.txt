@@ -1,0 +1,1 @@
+paperview .gifFolder/ 5 0 0 1920 1080 ./gifFolder/ 5 278 1085 1366 768
